@@ -7,6 +7,7 @@ For Independent Study with Prof. Omar
 1. Minesweeper with other shapes than rectangle. This will require studying k-domination numbers for other graphs.
 2. Since minesweeper with distance k is so hard, we should allow the player to choose to reveal number of bombs in the cells with distance l, 1 <= l <= k  that they want. However since reveal spots with distance 1 (we believe) always give more information, there is no point in allowing this. A better approach would be limiting the number of times people can reveal number of bombs distance l away for each 1 <= l <= k. (Say you can reveal 1-distance 5 times and 2-distance 10 times)
 3. Or alternatively, we can keep the k-distance idea, but reveal a lots of spots. This has 2 consequences, first if we can find how much to reveal to get a unique solution, this removes the randomness aspect that could be unpleasant for players, and this could be like Sudoku where you could put this on paper (instead of with computer) and have people play it.
+4. An interesting related problem is: given random boards for k-distance minesweeper, which k minimizes the average number of situations a player encounters in which they'll be forced to make a move no better than a random guess.
 
 ### Observation
 

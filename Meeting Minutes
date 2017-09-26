@@ -5,19 +5,23 @@
 
 1. Use the feature of Projects/issues/branch to tracj the progress more easily.
 2. Potential Directions
-  a. Make other board shape 
+  A. Make other board shape 
     - could work on theoretical stuff
-    - research on diff shapes [Maddie Qianti]
-  b. Limit # of clicks
+    - research on diff shapes [MADDIE QIANTI]
+  B. Limit # of clicks
     - present the block of diff distance k with diff colors!!!
     - shouldn't auto click if you click 0??? 
-  c. Reveal of the numbers
+  C. Reveal of the numbers
     - what distance that each number reveals?
+  D. Reveal some spots for the players so they don't need to guess [CHA]
+  E. MineSweeper with distance k
+    - k = 0 and k>=2  [TOMMY]
+  
     
 ?????? IS 1 ALWAYS BETTER(MORE FUN)THAN 2 ??????
     
 ### BUGS
-1. newSweeper.py can't reveal the 9x9 board when yo uclick a zero block. [ISSUES/ Tommy is working at it]
+1. newSweeper.py can't reveal the 9x9 board when yo uclick a zero block. [ISSUES/ TOMMY is working at it]
 
 
 

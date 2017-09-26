@@ -1,10 +1,33 @@
 
-## 9/21 8 AM  [Prof Omar]
+
+
+##### 9/25 6:00 - 7:00 PM [Qianti]
+
+1. Use the feature of Projects/issues/branch to tracj the progress more easily.
+2. Potential Directions
+  a. Make other board shape 
+    - could work on theoretical stuff
+    - research on diff shapes [Maddie Qianti]
+  b. Limit # of clicks
+    - present the block of diff distance k with diff colors!!!
+    - shouldn't auto click if you click 0??? 
+  c. Reveal of the numbers
+    - what distance that each number reveals?
+    
+?????? IS 1 ALWAYS BETTER(MORE FUN)THAN 2 ??????
+    
+### BUGS
+1. newSweeper.py can't reveal the 9x9 board when yo uclick a zero block. [ISSUES/ Tommy is working at it]
+
+
+
+
+###### 9/21 8 AM  [with Prof Omar]###################
 1. This Minesweeper is designed for kids and will potentially be put in an app in the future
 
 
 
-## 9/18 6:00 - 7:00 PM
+##### 9/18 6-7 PM ####################
 
 ### New ideas  
 1. Minesweeper with other shapes than rectangle. This will require studying k-domination numbers for other graphs.

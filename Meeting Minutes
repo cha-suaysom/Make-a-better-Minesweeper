@@ -1,17 +1,25 @@
-##### 9/25 6:00 - 7:00 PM [Qianti]##################
+##### 10/2 6:00 - 7:00 PM [Tommy]##################
 
-Qianti: Different Graph Types
+Qianti: 
+1. Different Graph Types
   - Cube (multiple versions)
   - Inside a Box
   - Graphs on a Sphere (traingles, hexagons)
   - Planar (hexagons)
+2. Different Shapes for Reveal Spaces
+  -E.g. for a circle you can use the function $(x - x_0)^2 + (y - y_0)^2 < r$
  
- Maddie:
- 
- Cha:
- 
- Tommy:
- 
+Maddie:
+3. Tetrisweeper??
+  -Pick a Reveal Pattern
+  -Is gonna work on node stuff (promises!)...also maybe Tetris
+  
+Cha:
+  -Keeping doing the same things as last week
+
+Tommy:
+ -$|x - x_0| + |y - y_0| < r$ for graph 
+ -Will work on allowing arbitrary functions for Sweep Spaces
 
 
 ##### 9/25 6:00 - 7:00 PM [Qianti]##################
